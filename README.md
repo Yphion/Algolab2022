@@ -21,7 +21,11 @@ Solutions for Algorithms Laboratory (ETH HS 2022)
 | Week 3         | Ant Challenge | [:page_with_curl:](src/ant_challenge.cpp) | MST, SP | Easy | 00:48 |
 | Week 3         | Buddy Selection | [:page_with_curl:](src/buddy_selection.cpp) | MM | Easy | 00:30 |
 | Week 3         | Important Bridges | [:page_with_curl:](src/important_bridges.cpp) | BCC | Easy | 01:15 |
-
+| Week 4 (PotW)  | Greyjoy | [:page_with_curl:](src/greyjoy.cpp) | PS, SW | Medium | 02:00 |
+| Week 4         | Antenna | [:page_with_curl:](src/antenna.cpp) | CGAL | Very Easy | 01:00 |
+| Week 4         | Hit | [:page_with_curl:](src/hit.cpp) | CGAL | Very Easy | 00:13 |
+| Week 4         | Hiking Maps | [:page_with_curl:](src/hiking_maps.cpp) | CGAL, SW | Medium | 01:30 |
+| Week 4         | First Hit | [:page_with_curl:](src/first_hit.cpp) | CGAL | Medium | 02:58 |
 
 
 ### Legend
