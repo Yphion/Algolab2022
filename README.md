@@ -26,6 +26,11 @@ Solutions for Algorithms Laboratory (ETH HS 2022)
 | Week 4         | Hit | [:page_with_curl:](src/hit.cpp) | CGAL | Very Easy | 00:13 |
 | Week 4         | Hiking Maps | [:page_with_curl:](src/hiking_maps.cpp) | CGAL, SW | Medium | 01:30 |
 | Week 4         | First Hit | [:page_with_curl:](src/first_hit.cpp) | CGAL | Medium | 02:58 |
+| Week 5 (PotW)  | Tracking | [:page_with_curl:](src/tracking.cpp) | SP | Easy | 00:45 |
+| Week 5         | Boats | [:page_with_curl:](src/boats.cpp) | GO | Easy | 00:18 |
+| Week 5         | Moving Books | [:page_with_curl:](src/moving_books.cpp) | GO | Easy | 00:21 |
+| Week 5         | Severus Snape | [:page_with_curl:](src/severus_snape.cpp) | DP | Very Hard | 05:00 |
+| Week 5         | Asterix the Gaul | [:page_with_curl:](src/asterix_the_gaul.cpp) | BS, S&L | Medium | 01:19 |
 
 
 ### Legend
