@@ -31,7 +31,11 @@ Solutions for Algorithms Laboratory (ETH HS 2022)
 | Week 5         | Moving Books | [:page_with_curl:](src/moving_books.cpp) | GO | Easy | 00:21 |
 | Week 5         | Severus Snape | [:page_with_curl:](src/severus_snape.cpp) | DP | Very Hard | 05:00 |
 | Week 5         | Asterix the Gaul | [:page_with_curl:](src/asterix_the_gaul.cpp) | BS, S&L | Medium | 01:19 |
-
+| Week 6 (PotW)  | Motorcycles | [:page_with_curl:](src/motorcycles.cpp) | CGAL | Medium | 02:30 |
+| Week 6         | What is the Maximum? | [:page_with_curl:](src/what_is_the_maximum.cpp) | LP | Very Easy | 00:25 |
+| Week 6         | Diet | [:page_with_curl:](src/diet.cpp) | LP | Very Easy | 00:14 |
+| Week 6         | Inball | [:page_with_curl:](src/inball.cpp) | LP | Medium | 01:50 |
+| Week 6         | Suez | [:page_with_curl:](src/suez.cpp) | LP | Medium | 02:20 |
 
 ### Legend
 - PotW: This was a "Problem of the Week"
