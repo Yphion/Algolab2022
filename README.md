@@ -36,6 +36,11 @@ Solutions for Algorithms Laboratory (ETH HS 2022)
 | Week 6         | Diet | [:page_with_curl:](src/diet.cpp) | LP | Very Easy | 00:14 |
 | Week 6         | Inball | [:page_with_curl:](src/inball.cpp) | LP | Medium | 01:50 |
 | Week 6         | Suez | [:page_with_curl:](src/suez.cpp) | LP | Medium | 02:20 |
+| Week 7 (PotW)  | Octopussy | [:page_with_curl:](src/octopussy.cpp) | LP | Very Easy | 00:24 |
+| Week 7         | Coin Tossing Tournament | [:page_with_curl:](src/coin_tossing_tournament.cpp) | MF | Easy | 00:33 |
+| Week 7         | Shopping Trip | [:page_with_curl:](src/shopping_trip.cpp) | MF | Very Easy | 00:14 |
+| Week 7         | London | [:page_with_curl:](src/london.cpp) | MF | Easy | 00:42 |
+| Week 7         | Tiles | [:page_with_curl:](src/tiles.cpp) | MF | Medium | 00:25 |
 
 ### Legend
 - PotW: This was a "Problem of the Week"
