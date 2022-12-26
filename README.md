@@ -41,6 +41,7 @@ Solutions for Algorithms Laboratory (ETH HS 2022)
 | Week 7         | Shopping Trip | [:page_with_curl:](src/shopping_trip.cpp) | MF | Very Easy | 00:14 |
 | Week 7         | London | [:page_with_curl:](src/london.cpp) | MF | Easy | 00:42 |
 | Week 7         | Tiles | [:page_with_curl:](src/tiles.cpp) | MF | Medium | 00:25 |
+| Week 8 (PotW)  | Augean Stables | [:page_with_curl:](src/augean_stables.cpp) | SW, LP | Medium | 02:05 |
 
 ### Legend
 - PotW: This was a "Problem of the Week"
