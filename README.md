@@ -42,6 +42,7 @@ Solutions for Algorithms Laboratory (ETH HS 2022)
 | Week 7         | London | [:page_with_curl:](src/london.cpp) | MF | Easy | 00:42 |
 | Week 7         | Tiles | [:page_with_curl:](src/tiles.cpp) | MF | Medium | 00:25 |
 | Week 8 (PotW)  | Augean Stables | [:page_with_curl:](src/augean_stables.cpp) | SW, LP | Medium | 02:05 |
+| Week 8         | Bistro | [:page_with_curl:](src/bistro.cpp) | DT | Easy | 00:23 |
 
 ### Legend
 - PotW: This was a "Problem of the Week"
