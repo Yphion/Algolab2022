@@ -44,6 +44,8 @@ Solutions for Algorithms Laboratory (ETH HS 2022)
 | Week 8 (PotW)  | Augean Stables | [:page_with_curl:](src/augean_stables.cpp) | SW, LP | Medium | 02:05 |
 | Week 8         | Bistro | [:page_with_curl:](src/bistro.cpp) | DT | Easy | 00:23 |
 | Week 8         | Light the Stage | [:page_with_curl:](src/light_the_stage.cpp) | DT | Medium | 00:45 |
+| Week 8         | H1N1 | [:page_with_curl:](src/h1n1.cpp) | DT, SP | Medium | 01:13 |
+
 
 ### Legend
 - PotW: This was a "Problem of the Week"
