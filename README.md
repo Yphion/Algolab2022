@@ -47,6 +47,7 @@ Solutions for Algorithms Laboratory (ETH HS 2022)
 | Week 8         | H1N1 | [:page_with_curl:](src/h1n1.cpp) | DT, SP | Medium | 01:13 |
 | Week 8         | Germs | [:page_with_curl:](src/germs.cpp) | DT | Medium | 00:55 |
 | Week 9 (PotW)  | Knights | [:page_with_curl:](src/knights.cpp) | MF | Easy | 00:44 |
+| Week 9         | Algocoön Group | [:page_with_curl:](src/algocoon.cpp) | MF | Easy | 00:25 |
 
 
 ### Legend
