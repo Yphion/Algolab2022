@@ -49,7 +49,8 @@ Solutions for Algorithms Laboratory (ETH HS 2022)
 | Week 9 (PotW)  | Knights | [:page_with_curl:](src/knights.cpp) | MF | Easy | 00:44 |
 | Week 9         | Algocoön Group | [:page_with_curl:](src/algocoon.cpp) | MF | Easy | 00:25 |
 | Week 9         | Placing Knights | [:page_with_curl:](src/placing_knights.cpp) | MF | Medium | 01:00 |
-| Week 9         | Real Estate Market | [:page_with_curl:](src/real_estate_market.cpp) | MF | Easy | 00:25 |
+| Week 9         | Real Estate Market | [:page_with_curl:](src/real_estate_market.cpp) | MFMC | Easy | 00:25 |
+| Week 9         | Casino Royale | [:page_with_curl:](src/casino_royale.cpp) | MFMC | Hard | 00:35 |
 
 ### Legend
 - PotW: This was a "Problem of the Week"
