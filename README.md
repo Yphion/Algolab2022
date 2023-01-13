@@ -51,12 +51,19 @@ Solutions for Algorithms Laboratory (ETH HS 2022)
 | Week 9         | Placing Knights | [:page_with_curl:](src/placing_knights.cpp) | MF | Medium | 01:00 |
 | Week 9         | Real Estate Market | [:page_with_curl:](src/real_estate_market.cpp) | MFMC | Easy | 00:25 |
 | Week 9         | Casino Royale | [:page_with_curl:](src/casino_royale.cpp) | MFMC | Hard | 00:35 |
+| Week 10 (PotW) | Hand | [:page_with_curl:](src/hand.cpp) | DT | Hard | 01:55 |
+| Week 10        | Clues | [:page_with_curl:](src/clues.cpp) | DT, 2C, CC | Medium | 01:20 |
+| Week 10         | DHL | [:page_with_curl:](src/dhl.cpp) | DP | Hard | 01:00 |
+| Week 10         | New York | [:page_with_curl:](src/new_york.cpp) | DFS, SW, BS | Medium | 00:30 |
+| Week 10         | Fleetrace | [:page_with_curl:](src/fleetrace.cpp) | MFMC | Easy | 00:25 |
+| Week 10 (Extra) | New Tiles | [:page_with_curl:](src/new_tiles.cpp) | DP | Very Hard | 02:39 |
 
 ### Legend
 - PotW: This was a "Problem of the Week"
 - 2C:	2-Coloring
 - BCC: Biconnected Components
 - BS:	Binary Search
+- CC: Connected Components
 - DFS: Depth First Search
 - DP:	Dynamic Programming
 - DT:	Delaunay Triangulation
