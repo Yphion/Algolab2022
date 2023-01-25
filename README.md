@@ -57,6 +57,20 @@ Solutions for Algorithms Laboratory (ETH HS 2022)
 | Week 10         | New York | [:page_with_curl:](src/new_york.cpp) | DFS, SW, BS | Medium | 00:30 |
 | Week 10         | Fleetrace | [:page_with_curl:](src/fleetrace.cpp) | MFMC | Easy | 00:25 |
 | Week 10 (Extra) | New Tiles | [:page_with_curl:](src/new_tiles.cpp) | DP | Very Hard | 02:39 |
+| Week 11 (PotW)  | Ceryneian Hind | [:page_with_curl:](src/ceryneian_hind.cpp) | MF | Very Hard | 03:35 |
+| Week 11         | The Fighting Pits of Meereen | [:page_with_curl:](src/the_fighting_pits_of_meereen.cpp) | DP | Very Hard | 03:00 |
+| Week 11         | Sith | [:page_with_curl:](src/sith.cpp) | BS, DT, CC | Medium | 01:30 |
+| Week 11         | Worldcup | [:page_with_curl:](src/worldcup.cpp) | DT, LP | Hard | 02:00 |
+| Week 11         | Astérix in Switzerland | [:page_with_curl:](src/asterix_in_switzerland.cpp) | MF | Very Easy* | 00:05 |
+| Week 12 (Potw)  | Rubeus Hagrid | [:page_with_curl:](src/rubeus_hagrid.cpp) | GO, DFS | Hard | 01:47 |
+| Week 12         | Lord Voldemort | [:page_with_curl:](src/lord_voldemort.cpp) | DP | Easy | 00:37 |
+| Week 12         | On Her Majesty's Secret Service | [:page_with_curl:](src/secret_service.cpp) | SP, BS, MF | Hard | 00:30 |
+| Week 12         | Car Sharing | [:page_with_curl:](src/car_sharing.cpp) | MCMF | Hard | 01:51 |
+| Week 12         | Nemean Lion | [:page_with_curl:](src/nemean_lion.cpp) | CGAL, DT, SW | Hard | 04:43 |
+| |
+| Exam I          | Schneewittchen | - | LP | Medium | 01:45 |
+| Exam I          | Rumpelstilzchen | - | MFMC | Medium | 01:00 |
+| Exam I          | Rapzunzel | [:page_with_curl:](src/new_york.cpp) | DFS, SW, BS | Medium | 00:30 |
 
 ### Legend
 - PotW: This was a "Problem of the Week"
@@ -80,5 +94,6 @@ Solutions for Algorithms Laboratory (ETH HS 2022)
 - SP: Shortest Path
 - SW:	Sliding Window
 - UF:	Union Find
+- *: Extremely similar to a previous problem
 
 ( Layout stolen from Rares Constantin ([:arrow_upper_right:](https://github.com/raresionut1/ETH-HS-2021-AlgoLab)) )
