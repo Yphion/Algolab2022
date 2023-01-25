@@ -70,7 +70,7 @@ Solutions for Algorithms Laboratory (ETH HS 2022)
 | |
 | Exam I          | Schneewittchen | - | LP | Medium | 01:45 |
 | Exam I          | Rumpelstilzchen | - | MFMC | Medium | 01:00 |
-| Exam I          | Rapzunzel | [:page_with_curl:](src/new_york.cpp) | DFS, SW, BS | Medium | 00:30 |
+| Exam I          | Rapzunzel | [:page_with_curl:](src/new_york.cpp) | DFS, SW, BS | Medium* | 00:30 |
 
 ### Legend
 - PotW: This was a "Problem of the Week"
