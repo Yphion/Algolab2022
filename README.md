@@ -68,7 +68,7 @@ Solutions for Algorithms Laboratory (ETH HS 2022)
 | Week 12         | Car Sharing | [:page_with_curl:](src/car_sharing.cpp) | MCMF | Hard | 01:51 |
 | Week 12         | Nemean Lion | [:page_with_curl:](src/nemean_lion.cpp) | CGAL, DT, SW | Hard | 04:43 |
 | |
-| Exam I          | Schneewittchen | - | LP | Medium | 01:45 |
+| Exam I          | Schneewittchen | - | DFS, LP | Medium | 01:45 |
 | Exam I          | Rumpelstilzchen | - | MFMC | Medium | 01:00 |
 | Exam I          | Rapzunzel | [:page_with_curl:](src/new_york.cpp) | DFS, SW, BS | Medium* | 00:30 |
 
