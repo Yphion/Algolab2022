@@ -67,10 +67,19 @@ Solutions for Algorithms Laboratory (ETH HS 2022)
 | Week 12         | On Her Majesty's Secret Service | [:page_with_curl:](src/secret_service.cpp) | SP, BS, MF | Hard | 00:30 |
 | Week 12         | Car Sharing | [:page_with_curl:](src/car_sharing.cpp) | MCMF | Hard | 01:51 |
 | Week 12         | Nemean Lion | [:page_with_curl:](src/nemean_lion.cpp) | CGAL, DT, SW | Hard | 04:43 |
+| Week 13 (Potw)  | The Empire Strikes Back | [:page_with_curl:](src/strikesback.cpp) | DT, LP | Medium | 00:55 |
+| Week 13         | Marathon | [:page_with_curl:](src/marathon.cpp) | SP, MF | Easy | 00:45 |
+| Week 13         | Astérix and the Chariot Race | [:page_with_curl:](src/asterix_and_the_chariot_race.cpp) | DP | Easy | 00:27 |
+| Week 13         | Evolution | [:page_with_curl:](src/evolution.cpp) | Skiplist | Easy | 00:44 |
+| Week 13         | Idéfix | [:page_with_curl:](src/idefix.cpp) | DT, UF | Medium | 01:55 |
+| Week 14 (Potw)  | Ludo Bagman | [:page_with_curl:](src/ludo_bagman.cpp) | MFMC | Medium | 01:06 |
 | |
 | Exam I          | Schneewittchen | - | DFS, LP | Medium | 01:45 |
 | Exam I          | Rumpelstilzchen | - | MFMC | Medium | 01:00 |
 | Exam I          | Rapzunzel | [:page_with_curl:](src/new_york.cpp) | DFS, SW, BS | Medium* | 00:30 |
+| Exam II         | Little Fish | - | BS, CC, BCC | Medium | 03:00 |
+| Exam II         | Hänsel und Gretel | [:page_with_curl:](src/idefix.cpp) | DT, UF | Easy* | 00:30 |
+| Exam II         | The Pied Piper of Hamelin | - | DFS, DP | Very Hard | 02:00+ |
 
 ### Legend
 - PotW: This was a "Problem of the Week"
